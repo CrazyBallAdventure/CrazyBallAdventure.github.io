@@ -6,3 +6,6 @@ The Coder's Computer
 
 GitHub Setup
 ## [Class03](Class03/notes03.md)
+
+Webpage structure with HTML
+## [Class04](Class04/notes04.md)
