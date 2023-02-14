@@ -9,3 +9,9 @@ GitHub Setup
 
 Webpage structure with HTML
 ## [Class04](Class04/notes04.md)
+
+Designing Webpages with CSS
+## [Class05](Class05/notes05.md)
+
+
+## [Class06](Class06/note06.md)
