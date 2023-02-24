@@ -5,3 +5,5 @@
 ## [Class02](Class-02/notes02.md)
 
 ## [Class03](Class-03/notes03.md)
+
+## [Class04](Class-04/notes04.md)
