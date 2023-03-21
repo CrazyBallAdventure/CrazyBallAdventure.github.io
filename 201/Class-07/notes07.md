@@ -1,9 +1,7 @@
 
 ## Domain Modeling
 
-<ol>
 1. Domain modeling is needed to analyze features and epics and to break apart problems for easier analysis
-</ol>
 
 ## HTML Table Basics
 
