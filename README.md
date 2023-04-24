@@ -1,4 +1,5 @@
-# Table of Contents
+# Reading Notes: Table of Contents
+`This is the main directory for my reading notes throughout the 4 courses`
 
 ## [Course 102](102) / Intro to Software Development
 
